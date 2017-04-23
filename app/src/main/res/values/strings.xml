@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vehicle List</string>
+    <string name="vehicle_id">Vehicle Id:</string>
+    <string name="vrn">Vrn:</string>
+    <string name="country">Country:</string>
+    <string name="color">Color:</string>
+    <string name="type">Type:</string>
+    <string name="is_default">Is Default:</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="try_again">Try again</string>
+    <string name="something_went_wrong">Oops! Something went wrong.</string>
+    <string name="retry">Retry</string>
+</resources>
